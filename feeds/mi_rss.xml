@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Canal RSS de Borja</title>
+        <link>https://portalnoticiasbruidie.000webhostapp.com/</link>
+        <description>Noticias de interés</description>
+        <language>es</language>
+        <item>
+            <title>Noticias de tecnología</title>
+            <link>https://www.elchapuzasinformatico.com/</link>
+            <description>Noticias sobre Hardware</description>
+        </item>
+         <item>
+            <title>Noticias de actualidad</title>
+            <link>https://www.eldiario.es/</link>
+            <description>Noticias sobre actualidad</description>
+        </item>
+        <item>
+            <title>El Tiempo en Huelva</title>
+            <link>https://www.eltiempo.es/huelva.html/</link>
+            <description>El Tiempo en Huelva de 14 días</description>
+        </item>
+    </channel>
+</rss>
